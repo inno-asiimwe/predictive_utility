@@ -2,7 +2,7 @@ import base64
 import datetime
 import io
 import matplotlib
-matplotlib.use('TkAgg')
+matplotlib.use('Agg')
 import matplotlib.pyplot as pyplot
 import statsmodels
 import statsmodels.api as sm 
